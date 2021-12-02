@@ -1,0 +1,16 @@
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\bin\Debug\net5.0\testEmployee.exe
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\bin\Debug\net5.0\testEmployee.deps.json
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\bin\Debug\net5.0\testEmployee.runtimeconfig.json
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\bin\Debug\net5.0\testEmployee.runtimeconfig.dev.json
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\bin\Debug\net5.0\testEmployee.dll
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\bin\Debug\net5.0\ref\testEmployee.dll
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\bin\Debug\net5.0\testEmployee.pdb
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\obj\Debug\net5.0\testEmployee.csproj.AssemblyReference.cache
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\obj\Debug\net5.0\testEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\obj\Debug\net5.0\testEmployee.AssemblyInfoInputs.cache
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\obj\Debug\net5.0\testEmployee.AssemblyInfo.cs
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\obj\Debug\net5.0\testEmployee.csproj.CoreCompileInputs.cache
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\obj\Debug\net5.0\testEmployee.dll
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\obj\Debug\net5.0\ref\testEmployee.dll
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\obj\Debug\net5.0\testEmployee.pdb
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\obj\Debug\net5.0\testEmployee.genruntimeconfig.cache

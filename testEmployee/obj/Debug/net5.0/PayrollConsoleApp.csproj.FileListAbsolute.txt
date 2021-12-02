@@ -1,0 +1,16 @@
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\bin\Debug\net5.0\PayrollConsoleApp.exe
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\bin\Debug\net5.0\PayrollConsoleApp.deps.json
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\bin\Debug\net5.0\PayrollConsoleApp.runtimeconfig.json
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\bin\Debug\net5.0\PayrollConsoleApp.runtimeconfig.dev.json
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\bin\Debug\net5.0\PayrollConsoleApp.dll
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\bin\Debug\net5.0\ref\PayrollConsoleApp.dll
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\bin\Debug\net5.0\PayrollConsoleApp.pdb
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\obj\Debug\net5.0\PayrollConsoleApp.csproj.AssemblyReference.cache
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\obj\Debug\net5.0\PayrollConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\obj\Debug\net5.0\PayrollConsoleApp.AssemblyInfoInputs.cache
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\obj\Debug\net5.0\PayrollConsoleApp.AssemblyInfo.cs
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\obj\Debug\net5.0\PayrollConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\obj\Debug\net5.0\PayrollConsoleApp.dll
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\obj\Debug\net5.0\ref\PayrollConsoleApp.dll
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\obj\Debug\net5.0\PayrollConsoleApp.pdb
+C:\Users\FAMILY\source\repos\testEmployee\testEmployee\obj\Debug\net5.0\PayrollConsoleApp.genruntimeconfig.cache
